@@ -1,0 +1,5 @@
+name: Custom Block for Form
+type: module
+core: '8.x'
+description: 'Plugin that shows a single selection question to authenticated users and provides the latest results after the response is submitted.'
+core_version_requirement: ^8 || ^9
